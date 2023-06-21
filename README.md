@@ -1,5 +1,5 @@
 # Personalized Medicine: Redefining Cancer Treatment (Kaggle 2017)
-Predict the effect of Genetic Variants to enable Personalized Medicine
+Predict the effect of Genetic Variants to enable Personalized Medicine. Utilizes Machine Learning and some Natural Language Processing techniques.
 
 ## Problem Statement
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
